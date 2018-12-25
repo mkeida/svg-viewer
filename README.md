@@ -1,4 +1,4 @@
-# client
+# SVG-Viewer
 
 > A Vue.js project
 
